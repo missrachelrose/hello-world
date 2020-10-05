@@ -1,2 +1,5 @@
 # hello-world
 Back on the Code Again
+I love science and technology, but chose not to work in it for a few years.  I choose to come charging back into the world of high-tech and coding seems the right way to do it.  I still remember my HTML and CSS, but Javascript is in my sights.  
+UI/UX is my area of interest.  Post-COVID policies force people online, and I want to help older adults deal with banking apps. My long years working as a therapist uniquely equip me with insight into average human beings.  Yoga works with the emotions, and frustration is an emotion that comes up a lot when inexperienced users face technological challenges.  There is some shame in the mix, usually, and that is often covered over by anger.  Effective UX involves understanding the end user and I have studied the finest science of the Mind - Yoga. 
+For me, communications technology is just like any other language.  I speak four languages (English, French, Spanish, Italian), so why not add some coding languages to the array?
